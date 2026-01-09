@@ -41,37 +41,22 @@ How does customer spending vary across regions?
 
 What is the overall revenue and sales distribution?
 
-## Key SQL Concepts Used
-
-JOIN (INNER JOIN, multiple table joins)
-
-GROUP BY & ORDER BY
-
-Aggregate functions (SUM, COUNT, AVG)
-
-CTEs (WITH clause)
-
-Subqueries
-
-Filtering with WHERE
-
-Sorting & ranking results
-
-Business-oriented query structuring
-
 ## Key Insights
 
-Identified the top-selling artist based on total revenue.
+- Revenue is highly concentrated among a small number of artists and customers
+- Certain music genres contribute significantly more to overall sales
+- High-value customers show repeat purchase behavior
+- Some countries generate higher average revenue per customer
+- Identifying top customers and artists can help in targeted marketing and promotions
 
-Found high-value customers and their spending patterns.
+## SQL Skills Demonstrated
 
-Analyzed country-wise revenue contribution.
-
-Discovered popular genres contributing most to sales.
-
-Highlighted customer segments useful for targeted marketing.
-
-These insights can directly support business decision-making such as promotions, inventory planning, and regional strategy.
+- Complex multi-table JOINs
+- Aggregation using SUM, COUNT, and AVG
+- GROUP BY and ORDER BY for analytical reporting
+- Common Table Expressions (CTEs)
+- Subqueries and filtering
+- Business-driven query design
 
 ## Project Files
 
@@ -84,6 +69,13 @@ MusicDatabaseSchema.png → Database ER diagram
 Music Store Analysis-Questions.pdf → Business questions addressed
 
 README.md → Project documentation
+
+## Why This Project
+
+This project demonstrates my ability to analyze structured data using SQL
+and translate business questions into actionable insights. It reflects
+real-world analytical tasks commonly performed in Data Analyst,
+Business Analyst, and Decision Analyst roles.
 
 
 👤 Author
