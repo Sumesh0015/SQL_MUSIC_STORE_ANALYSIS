@@ -7,6 +7,14 @@ The objective of this project is to demonstrate strong SQL fundamentals, analyti
 
 This project is well-suited for Data Analyst / Business Analyst / Decision Analyst fresher roles.
 
+## Database Schema
+
+The database consists of multiple related tables representing a digital music store:
+
+<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/f5c69744-4d14-418f-9d0d-1b9a466941b1" />
+
+The schema follows a relational structure, enabling complex joins and analytical queries.
+
 ## Tools & Technologies
 
 Database: PostgreSQL
@@ -16,14 +24,6 @@ SQL Client: pgAdmin 4
 Language: SQL
 
 Version Control: Git & GitHub
-
-## Database Schema
-
-The database consists of multiple related tables representing a digital music store:
-
-<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/f5c69744-4d14-418f-9d0d-1b9a466941b1" />
-
-The schema follows a relational structure, enabling complex joins and analytical queries.
 
 ## Business Questions Solved
 
