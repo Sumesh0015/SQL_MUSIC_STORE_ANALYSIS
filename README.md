@@ -5,8 +5,6 @@ This project focuses on analyzing a Music Store database using SQL (PostgreSQL) 
 
 The objective of this project is to demonstrate strong SQL fundamentals, analytical thinking, and the ability to solve real-world business questions using data.
 
-This project is well-suited for Data Analyst / Business Analyst / Decision Analyst fresher roles.
-
 ## Database Schema
 
 The database consists of multiple related tables representing a digital music store:
